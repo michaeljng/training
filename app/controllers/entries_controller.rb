@@ -1,5 +1,5 @@
 class EntriesController < ApplicationController
   def index
-    render :text => "Hello world!"
+    render :text => "This is a training test."
   end
 end
