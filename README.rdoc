@@ -5,7 +5,6 @@ However!
 * It is still blank.
 * It needs more information.
 * I can't think of any more information to add to this document.
-* But it seems there are four bullet points already.
 
 And that's the gist of it.
 
