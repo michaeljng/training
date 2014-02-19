@@ -2,12 +2,10 @@
 
 This is a file that tells the user what to expect.
 However!
-* It is still very hilariously blank.
+* It is still blank.
 * It needs more information.
-* I can't think of any more information to add to this document.
+* I can't think of any more stuff to add to this document.
 
 And that's the gist of it.
 
 Trouble? Not here!
-
-No sir.
