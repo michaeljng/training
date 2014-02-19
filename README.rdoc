@@ -2,7 +2,7 @@
 
 This is a file that tells the user what to expect.
 However!
-* It is still blank.
+* It is still very blank.
 * It needs more information.
 * I can't think of any more information to add to this document.
 
