@@ -1,11 +1,11 @@
 == README
 
-This is a file that tells the user what to expect.
+This is a critical file that tells the user what to expect.
 However!
-* It is still blank.
-* It needs more information.
-* I can't think of any more stuff to add to this document.
+* It is still very much blank.
+* It needs a lot more information.
+* I really can't think of any more stuff to add to this document.
 
-And that's the gist of it.
+And that's pretty much the gist of it.
 
-Trouble? Not here!
+Anyway, thanks for reading this announcement.
