@@ -1,6 +1,6 @@
 == README
 
-This is a file that tells the user what to do.
+This is a file that tells the user what to expect.
 However!
 * It is still blank.
 * It needs more information.
